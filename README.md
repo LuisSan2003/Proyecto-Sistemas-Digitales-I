@@ -11,10 +11,10 @@
     <p>Para la resolucion del proyecto se usaron los programas TinkerCad y Quartus, ambos necesarios para el diseño del diagrama esquemático y simulación de los circuitos electrónicos digitales del proyecto.<br>
     En este repositorio constan todos los archivos creados y usados para la producción de este proyecto.<br>
     El proyecto trata de automatizar una casa con circuitos y sistemas digitales, sin la ayuda de sistemas embebidos como Arduino que me proporcionan wifi o bluetooth.
-    En este repositorio constan única y exclusivamente los entregables del proyecto.<br>
-    Creado por:
-      Luis Santamaria
-      Fernando Suárez
+    En este repositorio constan única y exclusivamente los entregables del proyecto.<br><br>
+    Creado por:<br>
+      <ul><li>Luis Santamaria</li>
+      <li>Fernando Suárez</li></ul>
     </p>
   </body>
   </body>
